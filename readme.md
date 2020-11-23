@@ -8,4 +8,4 @@ OpenAI GPT-3
 
 ### other APIs
 
-Weather info: https://home.openweathermap.org/api_keys
+Weather info: https://home.openweathermap.org/api_keys"# OAICHATBOT" 
